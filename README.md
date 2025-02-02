@@ -20,7 +20,7 @@ pip install opencv-python mediapipe ultralytics segment-anything torch
 1. Place your video file (`test.mp4`) in the same directory as the script.
 2. Run the script:
 ```bash
-python hand_tracking_segmentation.py
+python hand_track.py
 ```
 3. The output video will be saved as `output_hand_tracking.mp4`.
 
